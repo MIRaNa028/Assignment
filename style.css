@@ -179,4 +179,9 @@ footer {
 .bg-images{
     background-image: url(best-product.png);
     background-repeat: no-repeat;
+    
+}
+.bg{
+    
+    background-repeat: no-repeat;
 }
